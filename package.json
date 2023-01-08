@@ -1,0 +1,19 @@
+{
+  "name": "realisation_patterns_by_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofi-Franko/realisation_patterns_by_typescript.git"
+  },
+  "author": "Sofiia Franchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sofi-Franko/realisation_patterns_by_typescript/issues"
+  },
+  "homepage": "https://github.com/Sofi-Franko/realisation_patterns_by_typescript#readme"
+}
